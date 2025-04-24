@@ -69,8 +69,23 @@ java -jar target/gemini_client-1.0-SNAPSHOT.jar
 5. View your study plan in the "Study Plan" tab.
 
 ## Screenshots
+SC 1: - Register Page
+![image](https://github.com/user-attachments/assets/66788ec3-adb4-4a78-852d-8fda83190589)
 
-(Add screenshots here)
+SC 2: - Login Page: -
+![image](https://github.com/user-attachments/assets/3da5b1ec-26f3-4d13-85f6-4ec5677ebf7e)
+
+SC 3: - Input Page
+![image](https://github.com/user-attachments/assets/84a852fa-499a-4dc0-95ea-43d958c59a7b)
+
+SC 4 : - Input Page according to subjects with specific topics (For eg:- Maths)
+![image](https://github.com/user-attachments/assets/8e198d60-6ea7-468d-8821-1558e2abdcfb)
+
+SC 5 : - Study Plan Generation with alert message
+![image](https://github.com/user-attachments/assets/d03f6a4d-a2d1-4e5f-94dd-1b3f7ec9c165)
+
+SC 6 : - Study Plan with Topic Checklist and live Progress tracking
+![image](https://github.com/user-attachments/assets/18e39aca-2abc-417d-a5c2-b2cf3a82555b)
 
 ## Notes for Developers
 
